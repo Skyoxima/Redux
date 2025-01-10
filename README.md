@@ -5,4 +5,4 @@ This is a small repository of me following along and understanding basics of the
 
 The material followed in the making of this is Codevolution's Redux Toolkit Tutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=DmEg-6GR_6YJkxkP&amp;list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/0awA5Uw6SJE/0.jpg)](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3)
